@@ -13,9 +13,8 @@ public class FullGarage
     }
 
     public void DisplayCars()
-    {                       //I really started to see the structure come together
-        CarsInGarage.Add(car); //make a new list that conatins 'cars' like a 
-                            // string list would hold names, then add 
+    {                       
+        //dont expose the list directly
     }
 
 
